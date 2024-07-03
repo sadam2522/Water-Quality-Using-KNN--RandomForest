@@ -22,6 +22,6 @@ Aplikasi web berbasis Flask untuk kemudahan penggunaan.
 
 # Instalasi 
 Ikuti langkah-langkah berikut untuk menginstal proyek ini secara lokal:
-- Clone repositori : git clone https://github.com/username/reponame.git
+- Clone repositori : git clone https://github.com/sadam2522/Water-Quality-Using-KNN--RandomForest.git
 - Masuk ke direktori proyek : cd reponame
 - Instal dependensi menggunakan pip: pip install -r requirements.txt
