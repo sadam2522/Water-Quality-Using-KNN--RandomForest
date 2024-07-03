@@ -6,10 +6,6 @@ Proyek ini bertujuan untuk memprediksi potabilitas air berdasarkan variabel-vari
 - Latar Belakang
 - Fitur
 - Instalasi
-- Penggunaan
-- Struktur Proyek
-- Kontribusi
-- Lisensi
   
 # Latar Belakang
 Proyek ini dikembangkan untuk membantu memprediksi kualitas air dan memastikan air yang aman untuk dikonsumsi. Dengan memanfaatkan model KNN dan Random Forest, proyek ini menawarkan prediksi yang akurat berdasarkan data kualitas air.
